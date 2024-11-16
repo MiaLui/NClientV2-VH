@@ -1,6 +1,6 @@
 # NClientV2 VH
 
-[![Github](https://img.shields.io/github/v/release/Dar9586/NClientV2.svg?logo=github)](https://github.com/Dar9586/NClientV2/releases/latest) [![F-Droid](https://img.shields.io/f-droid/v/com.dar.nclientv2)](https://f-droid.org/en/packages/com.dar.nclientv2/) ![Bitrise](https://img.shields.io/bitrise/0a79e29cfda80c5f?token=BrSKdUUfKb97MHigL9nA1w)
+[![Github](https://img.shields.io/github/v/release/Dar9586/NClientV2.svg?logo=github)](https://github.com/MiaLui/NClientV2-VH/releases/latest) ![Bitrise](https://img.shields.io/bitrise/0a79e29cfda80c5f?token=BrSKdUUfKb97MHigL9nA1w)
 
 Ứng dụng này hoạt động cho các thiết bị từ API 14 (Android 4.0) trở lên.
 Đã tùy chỉnh Sửa lỗi từ bản gốc và thêm ngôn Ngữ việt Nam.
@@ -25,11 +25,11 @@ Dựa trên phiên bản gốc Của Tác giả Dar9586:
 
 ## Màn hình ứng dụng
 
-Main page|Lateral menu
+Màn hình chính|Menu Bên trái
 :-:|:-:
-![Màn hình chính](https://raw.githubusercontent.com/Dar9586/NClientV2/master/fastlane/metadata/android/en-US/images/phoneScreenshots/img1.jpg)|![Menu Bên trái](https://media.discordapp.net/attachments/608725424092086280/720369411030253578/Screenshot_20200610-230229_NClientV2.jpg?width=360&height=658)
-Search|Random manga
-![Search](https://media.discordapp.net/attachments/608725424092086280/720369411030253578/Screenshot_20200610-230229_NClientV2.jpg?width=360&height=658)|![Random manga](https://raw.githubusercontent.com/Dar9586/NClientV2/master/fastlane/metadata/android/en-US/images/phoneScreenshots/img4.jpg)
+![Màn hình chính](https://github.com/MiaLui/NClientV2-VH/blob/91935497a631c9f20b5c5ffec20fa4f123f3f3c4/main.png)|![Menu Bên trái](https://github.com/MiaLui/NClientV2-VH/blob/91935497a631c9f20b5c5ffec20fa4f123f3f3c4/left-menu.png?width=360&height=658)
+Tìm kiếm|Manga ngẫu nhiên
+![Tìm kiếm](https://github.com/MiaLui/NClientV2-VH/blob/91935497a631c9f20b5c5ffec20fa4f123f3f3c4/search.png?width=360&height=658)|![Manga Ngẫu nhiên](https://github.com/MiaLui/NClientV2-VH/blob/91935497a631c9f20b5c5ffec20fa4f123f3f3c4/random.png)
 
 
 ## License
