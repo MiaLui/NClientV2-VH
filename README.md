@@ -5,7 +5,7 @@
 Ứng dụng này hoạt động cho các thiết bị từ API 14 (Android 4.0) trở lên.
 Đã tùy chỉnh Sửa lỗi từ bản gốc và thêm ngôn Ngữ việt Nam.
 Dựa trên phiên bản gốc Của Tác giả Dar9586:
-<https://github.com/Dar9586/NClientV2/releases>
+<https://github.com/Dar9586/NClientV2>
 
 ## Tính năng API
 
